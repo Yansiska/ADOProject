@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\bin\Debug\ADOProject.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\bin\Debug\ADOProject.exe
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\bin\Debug\ADOProject.pdb
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.FormLogin.resources
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.exe
+c:\users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.fLogin.resources
+C:\Users\user\documents\visual studio 2015\Projects\ADOProject\ADOProject\obj\Debug\ADOProject.fMenu.resources
